@@ -1,0 +1,42 @@
+[{
+    "question1": {
+        "questionText": "What is 225/5?",
+        "anwser1": "45",
+        "anwser2": "20",
+        "anwser3": "15",
+        "anwser4": "70",
+        "correctAnwser": "45"
+    },
+    "question2": {
+        "questionText": "What is 15 * 11 equal to?",
+        "anwser1": "145",
+        "anwser2": "150",
+        "anwser3": "165",
+        "anwser4": "170",
+        "correctAnwser": "165"
+    },
+    "question3": {
+        "questionText": "155 - 24 is equal to?",
+        "anwser1": "131",
+        "anwser2": "146",
+        "anwser3": "125",
+        "anwser4": "139",
+        "correctAnwser": "131"
+    },
+    "question4": {
+        "questionText": "What is 185 + 24?",
+        "anwser1": "203",
+        "anwser2": "209",
+        "anwser3": "219",
+        "anwser4": "206",
+        "correctAnwser": "209"
+    },
+    "question5": {
+        "questionText": "What is 17 * 18?",
+        "anwser1": "319",
+        "anwser2": "306",
+        "anwser3": "305",
+        "anwser4": "303",
+        "correctAnwser": "306"
+    }
+}]
